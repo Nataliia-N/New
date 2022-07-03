@@ -1,0 +1,41 @@
+.container{
+    display: block;
+    margin: 0 auto;
+    max-width: 70%;
+}
+.weather{
+    display: block;
+    margin: 0 auto;
+    padding: 50px;
+    }
+div{
+    font-family: 'Indie Flower', cursive;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+h2{
+    text-align: center;
+}
+form{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 30px;}
+.submit{
+    color: blueviolet;
+}
+h4{
+    text-align: center;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    background-color: blueviolet;
+    border-radius: 4px;
+    color: aliceblue;
+    padding: 5px;
+}
+div{
+    display: inline;
+}
